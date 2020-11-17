@@ -5,7 +5,7 @@
 ##### heading
 ###### heading
 
-#### For live editing use online makup editors
+#### For live editing use online markup editors
 * [Dillinger.io](https://dillinger.io/)
 
 normall way of writing , this is how its displayed
